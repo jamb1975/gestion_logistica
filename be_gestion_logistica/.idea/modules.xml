@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/app/app.gestion_logistica.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/app/app.gestion_logistica.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/apps/app/app.gestion_logistica.app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/apps/app/app.gestion_logistica.app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gestion_logistica.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gestion_logistica.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.buildSrc.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.iml" filepath="$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dominio/model/gestion_logistica.model.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/r2dbc-postgresql/gestion_logistica.r2dbc-postgresql.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/puntos-entrada/reactor-rest-servicios/gestion_logistica.reactor-rest-servicios.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gestion_logistica.test.iml" filepath="$PROJECT_DIR$/.idea/modules/gestion_logistica.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/utilities/gestion_logistica.usecase.iml" filepath="$PROJECT_DIR$/.idea/modules/utilities/gestion_logistica.usecase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dominio/usecase/gestion_logistica.usecase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/dominio/usecase/gestion_logistica.usecase.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dominio/usecase/gestion_logistica.usecase.test.iml" filepath="$PROJECT_DIR$/.idea/modules/dominio/usecase/gestion_logistica.usecase.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/infraestructura/manejo-adaptadores/reactor-rest-consumer/org.gestionlogistica.transporte.gestion_logistica.reactor-rest-consumer.test.iml" />
+    </modules>
+  </component>
+</project>

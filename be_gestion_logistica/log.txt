@@ -1,0 +1,90 @@
+> Task :buildSrc:extractPluginRequests UP-TO-DATE
+> Task :buildSrc:generatePluginAdapters UP-TO-DATE
+> Task :buildSrc:compileJava UP-TO-DATE
+> Task :buildSrc:compileGroovy NO-SOURCE
+> Task :buildSrc:compileGroovyPlugins UP-TO-DATE
+> Task :buildSrc:pluginDescriptors UP-TO-DATE
+> Task :buildSrc:processResources UP-TO-DATE
+> Task :buildSrc:classes UP-TO-DATE
+> Task :buildSrc:jar UP-TO-DATE
+> Task :model:compileJava UP-TO-DATE
+> Task :reactor-rest-servicios:compileJava UP-TO-DATE
+> Task :reactor-rest-servicios:processResources NO-SOURCE
+> Task :reactor-rest-servicios:classes UP-TO-DATE
+> Task :reactor-rest-servicios:jar UP-TO-DATE
+> Task :app:compileJava UP-TO-DATE
+> Task :app:processResources UP-TO-DATE
+> Task :app:classes UP-TO-DATE
+> Task :model:processResources NO-SOURCE
+> Task :model:classes UP-TO-DATE
+> Task :model:jar UP-TO-DATE
+
+> Task :app:App.main()
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-05-22T22:42:34.814-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : Starting App using Java 17.0.2 with PID 19516 (C:\gestion_logistica\apps\app\build\classes\java\main started by postgres in C:\gestion_logistica)
+2023-05-22T22:42:34.819-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : No active profile set, falling back to 1 default profile: "default"
+2023-05-22T22:42:34.912-05:00  INFO 19516 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2023-05-22T22:42:34.912-05:00  INFO 19516 --- [  restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2023-05-22T22:42:35.998-05:00  INFO 19516 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2023-05-22T22:42:36.053-05:00  INFO 19516 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 40 ms. Found 0 R2DBC repository interfaces.
+2023-05-22T22:42:37.625-05:00  INFO 19516 --- [  restartedMain] ctiveUserDetailsServiceAutoConfiguration : 
+
+Using generated security password: 8972043f-a1c6-4604-875e-0213dcad8cc2
+
+2023-05-22T22:42:38.462-05:00  INFO 19516 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-05-22T22:42:38.790-05:00  INFO 19516 --- [  restartedMain] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8097
+2023-05-22T22:42:38.818-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : Started App in 4.593 seconds (process running for 5.168)
+2023-05-23T10:16:05.380-05:00  INFO 19516 --- [   File Watcher] rtingClassPathChangeChangedEventListener : Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-05-23T10:16:05.709-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : Starting App using Java 17.0.2 with PID 19516 (C:\gestion_logistica\apps\app\build\classes\java\main started by postgres in C:\gestion_logistica)
+2023-05-23T10:16:05.709-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : No active profile set, falling back to 1 default profile: "default"
+2023-05-23T10:16:06.073-05:00  INFO 19516 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data R2DBC repositories in DEFAULT mode.
+2023-05-23T10:16:06.076-05:00  INFO 19516 --- [  restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 2 ms. Found 0 R2DBC repository interfaces.
+2023-05-23T10:16:06.310-05:00  INFO 19516 --- [  restartedMain] ctiveUserDetailsServiceAutoConfiguration : 
+
+Using generated security password: bf2ba3b3-efef-4fad-bf2c-d45812569550
+
+2023-05-23T10:16:06.423-05:00  INFO 19516 --- [  restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2023-05-23T10:16:06.451-05:00  INFO 19516 --- [  restartedMain] o.s.b.web.embedded.netty.NettyWebServer  : Netty started on port 8097
+2023-05-23T10:16:06.456-05:00  INFO 19516 --- [  restartedMain] org.gestionlogistica.app.App             : Started App in 0.795 seconds (process running for 41628.761)
+2023-05-23T10:16:06.459-05:00  INFO 19516 --- [  restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+
+> Task :app:App.main() FAILED
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:App.main()'.
+> Build cancelled while executing task ':app:App.main()'
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 9.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+See https://docs.gradle.org/8.1.1/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD FAILED in 16h 39m 18s
+14 actionable tasks: 1 executed, 13 up-to-date

@@ -1,0 +1,9 @@
+server:
+  port: ${PORT_MS}
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://${HOST}:${PORT}/${DATABASE}
+    username: ${USERNAME}
+    password: ${PASSWORD}
+    pool:
+      enabled: ${POOL}

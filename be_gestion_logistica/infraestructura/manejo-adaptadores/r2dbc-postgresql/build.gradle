@@ -1,0 +1,6 @@
+dependencies {
+    implementation project(':model')
+    implementation group: 'org.postgresql', name: 'r2dbc-postgresql', version: '1.0.1.RELEASE'
+
+}
+
